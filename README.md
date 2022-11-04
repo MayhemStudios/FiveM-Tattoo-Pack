@@ -13,3 +13,10 @@ Table of Information
 
 This is a minipack, of all tattoos, This adds some tattoos that look cool, and are for male and female.
 If you have a suggestion, create an issue.
+
+| Original Tattoo Creators
+|--|
+| Adorest |
+| OrangeAgent | 
+| lil haunt | 
+| lil joe |
